@@ -39,10 +39,3 @@ Nesta primeira etapa, o objetivo é construir a base do jogo: um sistema simples
 - Terminal/Console
 
 ---
-
-## ▶️ Como executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/super-trunfo-cidades.git
-   cd super-trunfo-cidades
